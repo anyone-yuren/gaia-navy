@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://niyg.github.io/gaia-navy/docs/contributing.html</loc>
+    
+    <lastmod>2019-03-31T07:05:14.683Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://niyg.github.io/gaia-navy/docs/index.html</loc>
+    
+    <lastmod>2019-03-31T07:03:28.441Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://niyg.github.io/gaia-navy/docs/guide/senior.html</loc>
     
     <lastmod>2019-03-31T06:53:07.174Z</lastmod>
@@ -61,13 +75,6 @@
     <loc>https://niyg.github.io/gaia-navy/docs/js/single.html</loc>
     
     <lastmod>2019-03-28T03:43:38.652Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://niyg.github.io/gaia-navy/docs/index.html</loc>
-    
-    <lastmod>2019-03-26T08:31:32.323Z</lastmod>
     
   </url>
   
@@ -135,7 +142,7 @@
   </url>
   
   <url>
-    <loc>https://niyg.github.io/gaia-navy/docs/name/dir.html</loc>
+    <loc>https://niyg.github.io/gaia-navy/themes/index.html</loc>
     
     <lastmod>2018-06-04T09:34:33.000Z</lastmod>
     
@@ -156,21 +163,14 @@
   </url>
   
   <url>
-    <loc>https://niyg.github.io/gaia-navy/themes/index.html</loc>
+    <loc>https://niyg.github.io/gaia-navy/docs/name/dir.html</loc>
     
     <lastmod>2018-06-04T09:34:33.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://niyg.github.io/gaia-navy/docs/html/jdc_fd_web_final_2.html</loc>
-    
-    <lastmod>2018-06-04T09:34:33.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://niyg.github.io/gaia-navy/docs/contributing.html</loc>
+    <loc>https://niyg.github.io/gaia-navy/docs/html/webapp.html</loc>
     
     <lastmod>2018-06-04T09:34:33.000Z</lastmod>
     
@@ -198,7 +198,7 @@
   </url>
   
   <url>
-    <loc>https://niyg.github.io/gaia-navy/docs/html/webapp.html</loc>
+    <loc>https://niyg.github.io/gaia-navy/docs/html/jdc_fd_web_final_2.html</loc>
     
     <lastmod>2018-06-04T09:34:33.000Z</lastmod>
     
